@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on Valde<br><br> I’m looking to collaborate on web projects.<br><br> I write blogs on https://medium.com/@suleymanaliakpinar<br><br>
+I’m currently working on Valde<br><br> I write blogs on https://medium.com/@suleymanaliakpinar<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/süleyman-ali-akpınar-7857ab8a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@suleymanaliakpinar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13338897) 
