@@ -1,6 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Ustat<br><br>🌱 I’m currently learning Elasticsearch, Ethereum and Solidity.<br><br>👯 I’m looking to collaborate on web projects.<br><br>🤝 I’m looking for help with Elasticsearch and three.js.<br><br>📝 I write blogs on https://medium.com/@suleymanaliakpinar<br><br>💬 Ask me about infrastructure, shopify app development, web2.0<br><br>📫 How to reach me akpinarsuleymen@gmail.com<br><br>
-
+# About Me:
+I’m currently working on Valde<br><br> I’m looking to collaborate on web projects.<br><br> I write blogs on https://medium.com/@suleymanaliakpinar<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/süleyman-ali-akpınar-7857ab8a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@suleymanaliakpinar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13338897) 
